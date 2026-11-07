@@ -1,0 +1,16 @@
+# Archivos de compilación
+**/bin/
+**/obj/
+
+# Configuración local
+.vs/
+.vscode/
+
+# Archivos temporales
+*.user
+*.suo
+*.cache
+*.log
+
+# Publicaciones
+**/publish/
